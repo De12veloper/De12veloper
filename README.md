@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=De12veloper&show_icons=true&locale=en&layout=compact" alt="Santosh Rao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnnabchakra&show_icons=true&locale=en" alt="Santosh Rao" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=De12veloper&show_icons=true&locale=en" alt="Santosh Rao" /></p>
