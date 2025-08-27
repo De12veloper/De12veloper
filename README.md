@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Technology, HTML, CSS, and JavaScript**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [https://github.com/De12veloper](https://github.com/De12veloper)
 
 - 📝 I regularly write articles on [https://bomblenews.com/](https://bomblenews.com/)
 
