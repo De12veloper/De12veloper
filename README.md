@@ -1,6 +1,6 @@
 ![logo](https://github.com/De12veloper/De12veloper/blob/main/GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm SANTOSH RAO</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
