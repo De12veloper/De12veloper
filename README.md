@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/De12veloper](https://github.com/De12veloper)
 
-- 📝 I regularly write articles on [https://bomblenews.com/](https://bomblenews.com/)
+- 📝 Linkedin Profile on [Linkedin](https://www.linkedin.com/in/santosh-rao-524087247/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript and Machine Learning Technology**
 
