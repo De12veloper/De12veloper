@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/arnnabchakra/arnnabchakra/main/banner.svg)
+![Banner](https://github.com/De12veloper/De12veloper/blob/main/banner.svg)
 <h1 align="center">A passionate Engineer from India</h1>
 
 
